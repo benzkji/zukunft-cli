@@ -4,9 +4,9 @@ zahlen = range(1, 11)
 
 resultat = 0
 for zahl in zahlen:
-    # print zahl
+     print resultat
     if zahl % 2 == 0:
-        resultat = resultat + zahl
+        #resultat = reultat
 
 print resultat
 
