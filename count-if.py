@@ -1,9 +1,9 @@
 
-zahlen = range(1, 11)
+zahlen = range(1, 10)
 # zahlen = range(1, 10000000)
 
 resultat = 0
-for zahl in zahlen:
+for zahl in zahlen:10
      print resultat
     if zahl % 2 == 0:
         #resultat = reultat
