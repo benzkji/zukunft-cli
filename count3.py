@@ -1,10 +1,10 @@
 
 zahlen = range(1, 100)
-zahlen = range(1, 10000000)
+zahlen = range(1, 100000000)
 
 resultat = ""
 for zahl in zahlen:
-    resultat = resultat + str(zahl)
+    resultat = resultat + str(zahl) + ":"
 
 print resultat
 
