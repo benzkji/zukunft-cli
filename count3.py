@@ -1,6 +1,6 @@
 
-zahlen = range(1, 10000)
-#zahlen = range(1, 10000000)
+zahlen = range(1, 100)
+zahlen = range(1, 10000000)
 
 resultat = ""
 for zahl in zahlen:
@@ -8,5 +8,6 @@ for zahl in zahlen:
 
 print resultat
 
-#Aufgabe: Zzwischen jede Zahl ein ":" einsetzen?
-#Aufgabe: Warum dauert es so lange? Wie kann man das Programm beschleunigen?
+
+# Aufgabe: Zzwischen jede Zahl ein ":" einsetzen?
+# Aufgabe: Warum dauert es so lange? Wie kann man das Programm beschleunigen?

@@ -4,7 +4,7 @@ zahlen = range(1, 10)
 
 resultat = 0
 for zahl in zahlen:10
-     print resultat
+    print resultat
     if zahl % 2 == 0:
         #resultat = reultat
 
