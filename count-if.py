@@ -7,7 +7,7 @@ for zahl in zahlen:
     #print resultat
     if zahl % 4 == 0:
         resultat += zahl
-	print zahl
-print resultat
+	print (zahl)
+print (resultat)
 
 # Aufgabe: was macht dieses programm?

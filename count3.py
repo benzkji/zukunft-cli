@@ -6,7 +6,7 @@ resultat = ""
 for zahl in zahlen:
     resultat = resultat + str(zahl) + ":"
 
-print resultat
+print (resultat)
 
 
 # Aufgabe: Zzwischen jede Zahl ein ":" einsetzen?
